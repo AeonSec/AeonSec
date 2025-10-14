@@ -15,11 +15,17 @@ Desde 2021 me he desempeñado como pentester freelance, participando en diferent
 
 
 ### Herramientas:
-[![Owasp Zap](https://img.shields.io/badge/OWASP-ZAP-233e81?style=for-the-badge&logo=OWASP&logoColor=white&labelColor=101010)]()
+[![CheckMarx Zap](https://img.shields.io/badge/OWASP-ZAP-233e81?style=for-the-badge&logo=OWASP&logoColor=white&labelColor=101010)]()
 [![Owasp Amass](https://img.shields.io/badge/OWASP-Amass-233e81?style=for-the-badge&logo=OWASP&logoColor=white&labelColor=101010)]()
 [![BurpSuite](https://img.shields.io/badge/BurpSuite-233e81?style=for-the-badge&logo=BurpSuite&logoColor=white&labelColor=101010)]()
 [![Nmap](https://img.shields.io/badge/Nmap-1976c8?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=101010)]()
 [![Knockpy](https://img.shields.io/badge/knockpy-49A1?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=101010)]()
 
+### Certificaciones
+
+Vicarius vRX
+<img width="200" height="200" alt="Badge" src="https://github.com/user-attachments/assets/b69a2bb9-0c09-491f-8872-9b60e0ff1099" />
+
 ### Contacto:
 [![Email](https://img.shields.io/badge/email_personal-D14836?style=for-the-badge&logo=proton&logoColor=white&labelColor=101010)](mailto:aeonseccontact@pm.me)
+
